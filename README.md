@@ -1,11 +1,8 @@
-# Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL
+## Fullstack Trello Clone
 
-![image](https://github.com/AntonioErdeljac/next13-trello/assets/23248726/fd260249-82fa-4588-a67a-69bb4eb09067)
+### Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL
 
-
-This is a repository for Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL
-
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=pRybm9lXW2c)
+[Visit site](https://next14-trello-sxidsvit.vercel.app/)
 
 Key Features:
 - Auth 
@@ -30,13 +27,9 @@ Key Features:
 
 **Node version 18.x.x**
 
-### Cloning the repository
 
-```shell
-git clone https://github.com/AntonioErdeljac/next13-trello.git
-```
 
-### Install packages
+##### Install packages
 
 ```shell
 npm i
@@ -57,10 +50,9 @@ DATABASE_URL=
 
 NEXT_PUBLIC_UNSPLASH_ACCESS_KEY=
 
-STRIPE_API_KEY=
-
 NEXT_PUBLIC_APP_URL=
 
+STRIPE_API_KEY=
 STRIPE_WEBHOOK_SECRET=
 ```
 
@@ -79,11 +71,14 @@ npx prisma db push
 ```shell
 npm run dev
 ```
+---
 
-## Available commands
+##### Contact with me: 
+[<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-Running commands with npm `npm run [command]`
+[linkedin]: https://www.linkedin.com/in/sergiy-antonyuk/
 
-| command         | description                              |
-| :-------------- | :--------------------------------------- |
-| `dev`           | Starts a development instance of the app |
+##### I can't express how much I have learned from [you](https://www.youtube.com/@codewithantonio) ! <br> Thanks for the hard and smart work.
+
+
+![](demo.gif)
